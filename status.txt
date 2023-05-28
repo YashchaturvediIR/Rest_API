@@ -1,0 +1,15 @@
+Most Imp. : status code is a good practice only. its not neccessary
+
+Sure! Here's a brief explanation of HTTP status codes:
+
+- 200 OK: Request successful.
+- 201 Created: Resource successfully created.
+- 204 No Content: Request successful, no content to return.
+- 400 Bad Request: Invalid syntax or parameters in the request.
+- 401 Unauthorized: Authentication required.
+- 403 Forbidden: Request is understood but not authorized.
+- 404 Not Found: Requested resource not found.
+- 500 Internal Server Error: Unexpected error on the server.
+- 503 Service Unavailable: Server temporarily unable to handle the request.
+
+These are some of the most important HTTP status codes, each representing a specific outcome or condition in the interaction between a client and a server.
